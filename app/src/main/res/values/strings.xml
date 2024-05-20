@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HttpActivityLifecycleDemo</string>
+    <string name="http_request_demo">HTTP Request Demo</string>
+    <string name="make_http_request">Make HTTP Request</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="fetch_user_data">Fetch User Data</string>
+    <string name="fetch_users">Fetch Users</string>
+</resources>
